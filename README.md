@@ -1,2 +1,3 @@
 # Learn Subnetting with Go
-Code examples from the book 'Learn Subnetting with Go'
+
+This repository contains the code examples for the book Learn Subnetting with Go.
